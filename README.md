@@ -1,13 +1,31 @@
 <h1 align="center">Hi 👋, I'm Suraj Kumar</h1>
-<h3 align="center">Passionate B.Tech Student | IIIT Vadodara - International Campus Diu | Computer Science & Engineering</h3>
+<!-- <h3 align="center">Passionate B.Tech Student | IIIT Vadodara - International Campus Diu | Computer Science & Engineering</h3>
+ -->
+
+🎓 Currently pursuing a B.Tech degree in Computer Science and Engineering from IIIT Vadodara - International Campus Diu.
+
+💻 Passionate about all things tech, with a focus on Web & Android development and software engineering.
+
+🚀 Experienced in Java, Python, HTML/CSS, and frameworks like Flutter.
+
+🔧 Actively working on personal projects to sharpen my skills and explore new technologies.
+
+🌱 Interested in open source projects and contributing to the developer community.
+
+🎯 Always striving to learn and grow as a developer, with a keen eye for problem-solving and delivering quality code.
+
+👥 Collaborative team player, having participated in group projects and hackathons.
+
+✉️ Feel free to reach out to me at [surajverma2910@gmail.com] for any inquiries or collaboration opportunities.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srj2910&label=Profile%20views&color=0e75b6&style=flat" alt="srj2910" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srj2910" alt="srj2910" /></a> </p>
 
+<!-- 
 - 💬 Ask me about **Java,flutter**
 
-- 📫 How to reach me **surajverma2910@gmail.com**
+- 📫 How to reach me **surajverma2910@gmail.com** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
